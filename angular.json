@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "orangeHRMAssignment"
+    }
+  },
+  "defaultProject": "orangeHRMAssignment",
+  "cli": {
+    "analytics": "773ecd84-30de-4b15-9de2-03f5da72b625"
+  }
 }
